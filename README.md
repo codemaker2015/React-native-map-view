@@ -1,6 +1,6 @@
 # React Native Map with real time location selection for Android
 ==========================
-![Screenshot](https://miro.medium.com/max/352/1*Zwx58P_-NooFcR2Ycu3gIA.gif)
+![Screenshot](https://github.com/codemaker2015/React-native-map-view/blob/master/demo/demo.gif)
 
 These days almost every mobile app needs the map integration for a purpose. React Native gives a great ability to serve this purpose easily. Today we will see how to integrate google map in and how to use google map platform https://maps.googleapis.com to get the real time location by moving around the map view.
 
